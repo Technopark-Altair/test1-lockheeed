@@ -21,10 +21,11 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
+              "src/ic_head_logo.svg",
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/style.css"
             ],
             "scripts": []
           },
